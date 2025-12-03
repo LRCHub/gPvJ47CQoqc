@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "oracle",
+  "base_artist": "Room97",
+  "createdAt": "2025-12-03T06:11:06.895888Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Oracle",
+      "artist": "Kodak Black",
+      "has_synced": false,
+      "path": "select/01_Oracle_Kodak_Black.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Oracle",
+      "artist": "A. G. Cook",
+      "has_synced": true,
+      "path": "select/02_Oracle_A._G._Cook.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Oracle Of Apollo",
+      "artist": "Virgin Steele",
+      "has_synced": false,
+      "path": "select/03_The_Oracle_Of_Apollo_Virgin_Steele.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Oracle",
+      "artist": "Van Canto",
+      "has_synced": true,
+      "path": "select/04_The_Oracle_Van_Canto.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Communion and the Oracle",
+      "artist": "Symphony X",
+      "has_synced": false,
+      "path": "select/05_Communion_and_the_Oracle_Symphony_X.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Communion and the Oracle",
+      "artist": "Symphony X",
+      "has_synced": true,
+      "path": "select/06_Communion_and_the_Oracle_Symphony_X.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Oracle",
+      "artist": "Kittie",
+      "has_synced": true,
+      "path": "select/07_Oracle_Kittie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Oracle",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/08_Oracle_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Oracle [Prod. Dirty Vans]",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/09_Oracle_[Prod._Dirty_Vans]_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Oracle (Live)",
+      "artist": "Kittie",
+      "has_synced": false,
+      "path": "select/10_Oracle_(Live)_Kittie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "2112: Overture / The Temples Of Syrinx / Discovery / Presentation / Oracle / Soliloquy / Grand Finale",
+      "artist": "Rush",
+      "has_synced": false,
+      "path": "select/11_2112__Overture___The_Temples_Of_Syrinx___Discovery___Presentation___Oracle___Sol_Rush.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "2112: I. Overture, II. The Temples of Syrinx, III. Discovery, IV. Presentation, V. Oracle: The Dream, VI. Soliloquy, VII. Grand Finale",
+      "artist": "Rush",
+      "has_synced": false,
+      "path": "select/12_2112__I._Overture,_II._The_Temples_of_Syrinx,_III._Discovery,_IV._Presentation,__Rush.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Oracle",
+      "artist": "Ring Of Fire",
+      "has_synced": false,
+      "path": "select/13_The_Oracle_Ring_Of_Fire.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "2112 (Overture; The Temples of Syrinx; Discovery; Presentation; Oracle: The Dream; Soliloquy; Grand Finale)",
+      "artist": "Rush",
+      "has_synced": true,
+      "path": "select/14_2112_(Overture;_The_Temples_of_Syrinx;_Discovery;_Presentation;_Oracle__The_Drea_Rush.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "2112: Oracle: The Dream (Live)",
+      "artist": "Rush",
+      "has_synced": false,
+      "path": "select/15_2112__Oracle__The_Dream_(Live)_Rush.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "oracle",
+      "artist": "Room97 feat. nayuta",
+      "has_synced": false,
+      "path": "select/pl_01_oracle_Room97_feat._nayuta.txt"
+    }
+  ]
+}
